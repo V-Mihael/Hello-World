@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T02:21:40.466Z" agent="5.0 (X11)" etag="LzUKsUFXAbkYYDmasF63" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T02:25:12.120Z" agent="5.0 (X11)" etag="MdCIc1XrvoYdSsm-avyN" version="13.7.9" type="github">
   <diagram id="tLe0fE9Jx7FF0J_R0xIS" name="Page-1">
     <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="HooWPe_33ltspAW23Gbh-49" value="( )" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="HooWPe_33ltspAW23Gbh-8" target="HooWPe_33ltspAW23Gbh-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HooWPe_33ltspAW23Gbh-66" value="QLQR outro" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="HooWPe_33ltspAW23Gbh-8" target="HooWPe_33ltspAW23Gbh-14">
+        <mxCell id="HooWPe_33ltspAW23Gbh-66" value="QLQR OUTRO" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="HooWPe_33ltspAW23Gbh-8" target="HooWPe_33ltspAW23Gbh-14">
           <mxGeometry x="-0.2857" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint as="offset" />
@@ -68,11 +68,16 @@
         <mxCell id="HooWPe_33ltspAW23Gbh-69" value="( )" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="HooWPe_33ltspAW23Gbh-11" target="HooWPe_33ltspAW23Gbh-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="HooWPe_33ltspAW23Gbh-75" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="HooWPe_33ltspAW23Gbh-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HooWPe_33ltspAW23Gbh-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HooWPe_33ltspAW23Gbh-12" value="CHAR" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="200" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HooWPe_33ltspAW23Gbh-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="650" width="80" height="80" as="geometry" />
@@ -96,11 +101,12 @@
             <mxPoint x="-7.550000000000001" y="-18.25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HooWPe_33ltspAW23Gbh-65" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HooWPe_33ltspAW23Gbh-27" target="HooWPe_33ltspAW23Gbh-14">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="HooWPe_33ltspAW23Gbh-65" value="QLQR OUTRO" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HooWPe_33ltspAW23Gbh-27" target="HooWPe_33ltspAW23Gbh-14">
+          <mxGeometry x="-0.2062" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="300" y="312" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HooWPe_33ltspAW23Gbh-68" value="(&#39;)" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="HooWPe_33ltspAW23Gbh-27" target="HooWPe_33ltspAW23Gbh-11">
