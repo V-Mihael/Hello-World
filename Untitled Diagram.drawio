@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T14:55:06.106Z" agent="5.0 (X11)" etag="QCHdQo6HyP51O7GFps4l" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T14:56:08.405Z" agent="5.0 (X11)" etag="2aMnNMEeukqMl6vhPUlg" version="13.7.9" type="github">
   <diagram id="tLe0fE9Jx7FF0J_R0xIS" name="Page-1">
     <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -68,6 +68,18 @@
               <mxPoint x="50" y="1120" />
             </Array>
             <mxPoint x="30" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m98PKvha44Yu54XBG6bC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="HooWPe_33ltspAW23Gbh-2" target="m98PKvha44Yu54XBG6bC-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m98PKvha44Yu54XBG6bC-25" value="NAO RECONHECIDOS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m98PKvha44Yu54XBG6bC-24">
+          <mxGeometry x="0.7388" y="73" relative="1" as="geometry">
+            <mxPoint x="90" y="74" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HooWPe_33ltspAW23Gbh-2" value="&lt;div&gt;INICIO&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;strokeColor=#6D1F00;direction=south;fontColor=#ffffff;rounded=1;" parent="1" vertex="1">
@@ -419,6 +431,9 @@
         </mxCell>
         <mxCell id="m98PKvha44Yu54XBG6bC-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="980" y="980" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m98PKvha44Yu54XBG6bC-23" value="EERO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1510" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
