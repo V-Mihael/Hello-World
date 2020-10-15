@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T14:58:50.444Z" agent="5.0 (X11)" etag="7eUeljcJrE6hpsytl-_V" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T15:01:56.352Z" agent="5.0 (X11)" etag="RlU7U-pyn4dFoHRcHltk" version="13.7.9" type="github">
   <diagram id="tLe0fE9Jx7FF0J_R0xIS" name="Page-1">
     <mxGraphModel dx="1673" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -217,7 +217,7 @@
         <mxCell id="HooWPe_33ltspAW23Gbh-53" value="&lt;div&gt;INTEGER&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;lt;=9999&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HooWPe_33ltspAW23Gbh-77" value="QLQR !=" style="endArrow=classic;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;curved=1;entryX=1;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;" parent="1" edge="1">
+        <mxCell id="HooWPe_33ltspAW23Gbh-77" value="QLQR !=" style="endArrow=classic;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;curved=1;entryX=1;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#FFFFFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="131.72" y="360.85572875253786" as="sourcePoint" />
             <mxPoint x="188.28854249492426" y="360.85572875253786" as="targetPoint" />
@@ -303,7 +303,7 @@
         <mxCell id="HooWPe_33ltspAW23Gbh-89" value="CONTEUDO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="120" y="585" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HooWPe_33ltspAW23Gbh-97" value="" style="endArrow=classic;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;curved=1;entryX=1;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;" parent="1" edge="1">
+        <mxCell id="HooWPe_33ltspAW23Gbh-97" value="" style="endArrow=classic;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;curved=1;entryX=1;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#FFFFFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="131.72000000000003" y="599.9957287525378" as="sourcePoint" />
             <mxPoint x="188.2885424949243" y="599.9957287525378" as="targetPoint" />
@@ -314,7 +314,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HooWPe_33ltspAW23Gbh-98" value="QLR !=" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="HooWPe_33ltspAW23Gbh-97" vertex="1" connectable="0">
+        <mxCell id="HooWPe_33ltspAW23Gbh-98" value="QLQR !=" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;labelBackgroundColor=#FFFFFF;" parent="HooWPe_33ltspAW23Gbh-97" vertex="1" connectable="0">
           <mxGeometry x="0.1816" y="-4" relative="1" as="geometry">
             <mxPoint x="-9.540000000000001" y="-5.93" as="offset" />
           </mxGeometry>
@@ -330,7 +330,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HooWPe_33ltspAW23Gbh-101" value="QLR !=" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="HooWPe_33ltspAW23Gbh-100" vertex="1" connectable="0">
+        <mxCell id="HooWPe_33ltspAW23Gbh-101" value="QLQR !=" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;labelBackgroundColor=#FFFFFF;" parent="HooWPe_33ltspAW23Gbh-100" vertex="1" connectable="0">
           <mxGeometry x="0.1816" y="-4" relative="1" as="geometry">
             <mxPoint x="-9.540000000000001" y="-5.93" as="offset" />
           </mxGeometry>
