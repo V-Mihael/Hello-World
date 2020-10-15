@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T15:21:36.680Z" agent="5.0 (X11)" etag="Z77C6JfmsY6ha9WutMKD" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T15:23:36.710Z" agent="5.0 (X11)" etag="5xD6UlWo-LvOlWkDlnp0" version="13.7.9" type="github">
   <diagram id="tLe0fE9Jx7FF0J_R0xIS" name="Page-1">
-    <mxGraphModel dx="1422" dy="738" grid="1" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="509" grid="1" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
         <mxCell id="HooWPe_33ltspAW23Gbh-99" value="(~)" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fillColor=#A8DADC;fontSize=14;" parent="1" source="HooWPe_33ltspAW23Gbh-2" target="HooWPe_33ltspAW23Gbh-85" edge="1">
           <mxGeometry x="0.9091" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="50" y="760" />
+              <mxPoint x="50" y="780" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -250,7 +250,7 @@
           <mxGeometry x="550" y="585" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HooWPe_33ltspAW23Gbh-81" value="LITERAL" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=#432D57;fillColor=#76608a;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="610" y="720" width="80" height="80" as="geometry" />
+          <mxGeometry x="550" y="740" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m98PKvha44Yu54XBG6bC-46" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#457B9D;fillColor=#A8DADC;fontSize=14;" edge="1" parent="1" source="HooWPe_33ltspAW23Gbh-82" target="m98PKvha44Yu54XBG6bC-38">
           <mxGeometry relative="1" as="geometry" />
@@ -289,7 +289,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HooWPe_33ltspAW23Gbh-85" value="CONTEUDO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=#457B9D;fillColor=#A8DADC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="120" y="720" width="80" height="80" as="geometry" />
+          <mxGeometry x="120" y="740" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HooWPe_33ltspAW23Gbh-86" value="COMENTARIO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=#432D57;fillColor=#76608a;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="675" y="580" width="90" height="90" as="geometry" />
@@ -339,12 +339,12 @@
         </mxCell>
         <mxCell id="HooWPe_33ltspAW23Gbh-100" value="" style="endArrow=classic;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=#457B9D;curved=1;entryX=1;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="131.72000000000003" y="730.8557287525379" as="sourcePoint" />
-            <mxPoint x="188.2885424949243" y="730.8557287525379" as="targetPoint" />
+            <mxPoint x="131.72000000000003" y="751.9957287525378" as="sourcePoint" />
+            <mxPoint x="188.2885424949243" y="751.9957287525378" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="132.00427124746216" y="699.14" />
-              <mxPoint x="160.00427124746216" y="689.14" />
-              <mxPoint x="188.00427124746216" y="699.14" />
+              <mxPoint x="132.00427124746216" y="720.28" />
+              <mxPoint x="160.00427124746216" y="710.28" />
+              <mxPoint x="188.00427124746216" y="720.28" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -359,18 +359,17 @@
         <mxCell id="m98PKvha44Yu54XBG6bC-21" value="( )" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" edge="1" parent="1" source="HooWPe_33ltspAW23Gbh-106" target="HooWPe_33ltspAW23Gbh-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m98PKvha44Yu54XBG6bC-22" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;QLQR !=&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HooWPe_33ltspAW23Gbh-106" target="m98PKvha44Yu54XBG6bC-66">
-          <mxGeometry x="0.0187" relative="1" as="geometry">
+        <mxCell id="m98PKvha44Yu54XBG6bC-22" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;QLQR !=&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HooWPe_33ltspAW23Gbh-106" target="m98PKvha44Yu54XBG6bC-66">
+          <mxGeometry x="0.4029" relative="1" as="geometry">
             <mxPoint x="800" y="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="425" y="732" />
-              <mxPoint x="425" y="710" />
+              <mxPoint x="414" y="710" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HooWPe_33ltspAW23Gbh-106" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=#457B9D;fillColor=#A8DADC;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="460" y="720" width="80" height="80" as="geometry" />
+          <mxGeometry x="374" y="740" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m98PKvha44Yu54XBG6bC-19" value="( )" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HooWPe_33ltspAW23Gbh-80" target="HooWPe_33ltspAW23Gbh-86">
           <mxGeometry relative="1" as="geometry">
